@@ -47,10 +47,10 @@ footer {
     color: #ffffff;
     font-size: 0.8em;
     letter-spacing: 1px;
-    position: fixed;
+    /* position: fixed;
     bottom: 0;
     left: 0;
-    width: 100%;
+    width: 100%; */
 }
 
 input[type=text], textarea {
